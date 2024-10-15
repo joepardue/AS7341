@@ -1,4 +1,4 @@
-# AS7341_AdaFruit_board.py
+# # AS7341_AdaFruit_board_function_tests.py
 # Joe Pardue 10/15/24
 
 import time
