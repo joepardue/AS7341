@@ -1,3 +1,6 @@
+# Pico_blinky.py
+# Joe Pardue 10/14/24
+
 import board
 import digitalio
 import time
